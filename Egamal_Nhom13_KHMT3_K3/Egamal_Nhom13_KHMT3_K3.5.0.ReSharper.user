@@ -1,0 +1,101 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="frmmain`0" priority="0" />
+      <Item value="txtcongkhai" priority="2" />
+      <Item value="txtbimat1" priority="1" />
+      <Item value="txtbimat" priority="1" />
+      <Item value="txtp" priority="4" />
+      <Item value="txta" priority="0" />
+      <Item value="txtx" priority="2" />
+      <Item value="txtk" priority="4" />
+      <Item value="txtbanma" priority="1" />
+      <Item value="txtbanro" priority="1" />
+      <Item value="txtbanro1" priority="1" />
+      <Item value="txtbanma1" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="Random`0" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="Random" priority="0" />
+      <Item value="rd" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="k" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="CategoryAttribute`0" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ex" priority="1" />
+      <Item value="MaHoa`0" priority="0" />
+      <Item value="Giaima`0" priority="0" />
+      <Item value="tabControl1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="20" />
+      <Item value="Focus`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TabControl">
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:Program.cs" caret="488" fromTop="16" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4730" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:Program.cs" caret="488" fromTop="16" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:Program.cs" caret="513" fromTop="16" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="499" fromTop="18" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="3703" fromTop="28" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="3312" fromTop="9" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4119" fromTop="21" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="3863" fromTop="15" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="3217" fromTop="21" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="3095" fromTop="11" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="1597" fromTop="16" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="2267" fromTop="18" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="1605" fromTop="11" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="2423" fromTop="20" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4531" fromTop="12" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="2039" fromTop="10" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4402" fromTop="17" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4768" fromTop="17" />
+      <File id="DA7EDA9C-9F11-48DF-9143-894A6D598D26/f:frmmain.cs" caret="4730" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
