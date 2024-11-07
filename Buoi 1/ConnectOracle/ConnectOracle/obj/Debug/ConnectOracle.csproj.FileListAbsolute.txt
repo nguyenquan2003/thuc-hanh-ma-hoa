@@ -1,0 +1,10 @@
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Login.resources
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+E:\LuuDuLieuSV\DPDat\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csprojResolveAssemblyReference.cache

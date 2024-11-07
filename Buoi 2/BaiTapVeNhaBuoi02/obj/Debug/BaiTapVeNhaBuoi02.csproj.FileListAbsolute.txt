@@ -1,0 +1,48 @@
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.exe.config
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.exe
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.pdb
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.AssemblyReference.cache
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Form1.resources
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Properties.Resources.resources
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.GenerateResource.cache
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.CoreCompileInputs.cache
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.exe
+D:\4.HocKi_7\TH_BaoMat\27_NguyenHuuSang_Buoi02\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.pdb
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.exe.config
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.exe
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\BaiTapVeNhaBuoi02.pdb
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Buffers.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Formats.Asn1.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Memory.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Numerics.Vectors.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Text.Encodings.Web.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Text.Json.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.ValueTuple.dll
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Buffers.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Formats.Asn1.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Memory.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Numerics.Vectors.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Text.Encodings.Web.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Text.Json.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\bin\Debug\System.ValueTuple.xml
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.AssemblyReference.cache
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Form2.resources
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Properties.Resources.resources
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.GenerateResource.cache
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.csproj.CoreCompileInputs.cache
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVe.646EBE96.Up2Date
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.exe
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.pdb
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.TripleDES.resources
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Login.resources
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Form1.resources
+D:\TH BMHTTT\BaiTapVeNhaBuoi02\BaiTapVeNhaBuoi02\obj\Debug\BaiTapVeNhaBuoi02.Form3.resources
