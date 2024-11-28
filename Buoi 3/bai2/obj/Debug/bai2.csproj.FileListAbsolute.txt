@@ -1,0 +1,8 @@
+E:\LuuDuLieuSV\Hchien\RSA\bai2\bin\Debug\bai2.exe.config
+E:\LuuDuLieuSV\Hchien\RSA\bai2\bin\Debug\bai2.exe
+E:\LuuDuLieuSV\Hchien\RSA\bai2\bin\Debug\bai2.pdb
+E:\LuuDuLieuSV\Hchien\RSA\bai2\bin\Debug\Cryptography.dll
+E:\LuuDuLieuSV\Hchien\RSA\bai2\bin\Debug\Cryptography.pdb
+E:\LuuDuLieuSV\Hchien\RSA\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\Hchien\RSA\bai2\obj\Debug\bai2.exe
+E:\LuuDuLieuSV\Hchien\RSA\bai2\obj\Debug\bai2.pdb

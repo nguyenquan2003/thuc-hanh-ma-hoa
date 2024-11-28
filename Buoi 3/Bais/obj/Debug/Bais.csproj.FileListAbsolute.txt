@@ -1,0 +1,10 @@
+E:\LuuDuLieuSV\Hchien\RSA\Bais\bin\Debug\Bais.exe.config
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bai3.FormLogin.resources
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bais.Properties.Resources.resources
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bai3.RSA_GUI.resources
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bais.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\Hchien\RSA\Bais\bin\Debug\Bais.exe
+E:\LuuDuLieuSV\Hchien\RSA\Bais\bin\Debug\Bais.pdb
+E:\LuuDuLieuSV\Hchien\RSA\Bais\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bais.exe
+E:\LuuDuLieuSV\Hchien\RSA\Bais\obj\Debug\Bais.pdb

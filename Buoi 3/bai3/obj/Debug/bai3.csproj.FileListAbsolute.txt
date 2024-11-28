@@ -1,0 +1,7 @@
+E:\LuuDuLieuSV\Hchien\RSA\bai3\bin\Debug\bai3.exe.config
+E:\LuuDuLieuSV\Hchien\RSA\bai3\bin\Debug\bai3.exe
+E:\LuuDuLieuSV\Hchien\RSA\bai3\bin\Debug\bai3.pdb
+E:\LuuDuLieuSV\Hchien\RSA\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\Hchien\RSA\bai3\obj\Debug\bai3.exe
+E:\LuuDuLieuSV\Hchien\RSA\bai3\obj\Debug\bai3.pdb
+E:\LuuDuLieuSV\Hchien\RSA\bai3\bin\Debug\Oracle.ManagedDataAccess.dll
