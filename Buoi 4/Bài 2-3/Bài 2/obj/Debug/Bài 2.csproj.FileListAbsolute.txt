@@ -1,0 +1,11 @@
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\bin\Debug\Bài 2.exe.config
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\bin\Debug\Bài 2.exe
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\bin\Debug\Bài 2.pdb
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài 2.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài_2.Login.resources
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài_2.Profile_GUI.resources
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài_2.Properties.Resources.resources
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài 2.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài 2.exe
+E:\LuuDuLieuSV\Thong\Tuần 4\Bài 2-3\Bài 2\obj\Debug\Bài 2.pdb

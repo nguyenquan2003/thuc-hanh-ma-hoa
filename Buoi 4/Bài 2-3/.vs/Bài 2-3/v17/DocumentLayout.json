@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|f:\\\u0111\u1EA1i h\u1ECDc\\thong\\tu\u1EA7n 4\\b\u00E0i 2-3\\b\u00E0i 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|solutionrelative:b\u00E0i 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|f:\\\u0111\u1EA1i h\u1ECDc\\thong\\tu\u1EA7n 4\\b\u00E0i 2-3\\b\u00E0i 2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|solutionrelative:b\u00E0i 2\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|f:\\\u0111\u1EA1i h\u1ECDc\\thong\\tu\u1EA7n 4\\b\u00E0i 2-3\\b\u00E0i 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFBDB71C-FE66-4488-A16D-63CD80165014}|B\u00E0i 2\\B\u00E0i 2.csproj|solutionrelative:b\u00E0i 2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Database.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 2\\Database.cs",
+              "ToolTip": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Database.cs",
+              "RelativeToolTip": "B\u00E0i 2\\Database.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwHEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:50:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Login.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 2\\Login.cs",
+              "ToolTip": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Login.cs",
+              "RelativeToolTip": "B\u00E0i 2\\Login.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAIwGcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:50:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Login.cs",
+              "RelativeDocumentMoniker": "B\u00E0i 2\\Login.cs",
+              "ToolTip": "F:\\\u0110\u1EA1i H\u1ECDc\\Thong\\Tu\u1EA7n 4\\B\u00E0i 2-3\\B\u00E0i 2\\Login.cs [Design]",
+              "RelativeToolTip": "B\u00E0i 2\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:50:18.223Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

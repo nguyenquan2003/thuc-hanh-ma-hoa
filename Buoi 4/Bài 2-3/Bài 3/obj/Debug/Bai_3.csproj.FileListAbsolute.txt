@@ -1,0 +1,12 @@
+E:\LuuDuLieuSV\2001210195\Bai_3\Bai_3\bin\Debug\Bai_3.exe.config
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\bin\Debug\Bai_3.exe.config
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.Create_User_GUI.resources
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.Properties.Resources.resources
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.Login.resources
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\bin\Debug\Bai_3.exe
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\bin\Debug\Bai_3.pdb
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.exe
+E:\LuuDuLieuSV\NguyenDuongNhatKhoa_2033222105\NguyenDuongNhatKhoa_2033222105\Bai_3\Bai_3\obj\Debug\Bai_3.pdb
