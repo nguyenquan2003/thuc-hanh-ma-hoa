@@ -1,0 +1,10 @@
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\bin\Debug\Buoi5.exe.config
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\bin\Debug\Buoi5.exe
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\bin\Debug\Buoi5.pdb
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.DangNhap.resources
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.exe
+E:\LuuDuLieuSV\2001216238_NguyenMinhTri\Buoi5\Buoi5\obj\Debug\Buoi5.pdb

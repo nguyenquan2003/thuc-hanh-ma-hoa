@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Oracle.ManagedDataAccess.Client;
+
+namespace Buoi5
+{
+    public partial class DangNhap : Form
+    {
+        public DangNhap()
+        {
+            InitializeComponent();
+            CenterToScreen();
+        }
+        bool Check_Textbox(string host, string post, string sid, string user, string pass)
+        {
+            if(host == "")
+            {
+                MessageBox.Show("Chua dien thong tin Host");
+                
+            }
+        }
+    }
+}

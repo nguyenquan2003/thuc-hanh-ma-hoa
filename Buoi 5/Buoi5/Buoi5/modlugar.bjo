@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Oracle.ManagedDataAccess.Client;
+using Oracle.ManagedDataAccess.Types;
+using System.Data;
+using System.Windows.Forms;
+
+namespace Buoi5
+{
+    public class PhanQuyen
+    {
+        OracleConnection conn;
+
+        public PhanQuyen(OracleConnection conn)
+        {
+            this.conn = conn;
+        }
+        public OracleDataReader Get_User()
+        {
+            try
+            {
+                string Procedure = "sys.pkg_PhanQuyen.pro_select_user";
+
+                OracleCommand cmd = new OracleCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = Procedure;
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                OracleParameter resultParam = new OracleParameter();
+                resultParam.ParameterName = "@Result";
+                resultParam.OracleDbType = OracleDbType.RefCursor;
+                resultParam.Direction = ParameterDirection.Output;
+                cmd.Parameters.Add(resultParam);
+
+                cmd.ExecuteNonQuery();
+                if(resultParam.Value != DBNull.Value)
+                {
+                    OracleDataReader ret = ((OracleRefCursor)resultParam.Value).GetDataReader();
+                    return ret;
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi gọi chạy thủ tục: pro_select_user");
+                return null;
+            }
+            return null;
+        }
+        public OracleDataReader Get_Role()
+        {
+            try
+            {
+                string Procedure = "sys.pkg_PhanQuyen.pro_select_roles";
+                OracleCommand cmd = new OracleCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = Procedure;
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                OracleParameter resultParam = new OracleParameter();
+                resultParam.ParameterName = "@Result";
+                resultParam.OracleDbType = OracleDbType.RefCursor;
+                resultParam.Direction = ParameterDirection.Output;
+                cmd.Parameters.Add(resultParam);
+
+                cmd.ExecuteNonQuery();
+                if (resultParam.Value != DBNull.Value)
+                {
+                    OracleDataReader ret = ((OracleRefCursor)resultParam.Value).GetDataReader();
+                    return ret;
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Lỗi gọi chạy thủ tục: pro_select_user");
+                return null;
+            }
+            return null;
+        }
+        public OracleDataReader Get_Table_User(string userowner)
+        {
+            try
+            {
+                string Procedure = "sys.pkg_PhanQuyen.pro_select_table";
+
+                OracleCommand cmd = new OracleCommand();
+                cmd.Connection = conn;
+                cmd.CommandText = Procedure;
+                cmd.CommandType = CommandType.StoredProcedure;
+
+                OracleParameter UserOwner = new OracleParameter();
+                UserOwner.ParameterName = "@userowner";
+                UserOwner.OracleDbType = OracleDbType.Varchar2;
+                UserOwner.Value = userowner.ToUpper();
+                UserOwner.Direction = ParameterDirection.Input;
+                cmd.Parameters.Add(UserOwner);
+
+                OracleParameter resultParam = new OracleParameter();
+                resultParam.ParameterName = "@Result";
+                resultParam.OracleDbType = OracleDbType.RefCursor;
+                resultParam.Direction = ParameterDirection.Output;
+                cmd.Parameters.Add(resultParam);
+
+                cmd.ExecuteNonQuery();
+                is(resultParam.Value != DBNull.Value)
+                {
+                    OracleDataReader ret = ((OracleRefCursor)resultParam.Value).GetDataReader();
+                    return null;
+                }
+                return null;
+            }
+        }
+    }
+}
